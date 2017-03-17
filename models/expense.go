@@ -2,7 +2,7 @@
 package models
 
 import (
-	"bitbucket.org/evokesolutions/sm-rest-server/common"
+	"github.com/lepsalex/go-rest-server/common"
 	"gopkg.in/mgo.v2/bson"
 )
 

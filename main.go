@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"bitbucket.org/evokesolutions/sm-rest-server/common"
-	"bitbucket.org/evokesolutions/sm-rest-server/routers"
+	"github.com/lepsalex/go-rest-server/common"
+	"github.com/lepsalex/go-rest-server/routers"
 	"github.com/urfave/negroni"
 )
 

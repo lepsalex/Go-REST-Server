@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"bitbucket.org/evokesolutions/sm-rest-server/controllers"
+	"github.com/lepsalex/go-rest-server/controllers"
 	"github.com/gorilla/mux"
 )
 

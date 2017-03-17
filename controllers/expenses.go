@@ -3,8 +3,8 @@
 package controllers
 
 import (
-	"bitbucket.org/evokesolutions/sm-rest-server/common"
-	"bitbucket.org/evokesolutions/sm-rest-server/models"
+	"github.com/lepsalex/go-rest-server/common"
+	"github.com/lepsalex/go-rest-server/models"
 	"encoding/json"
 	"github.com/gorilla/mux"
 	"net/http"
